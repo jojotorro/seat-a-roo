@@ -11,6 +11,10 @@ Simple desk booking app for employees at J.P.Morgan.
 a normal cinema seating...
 
 ![normal](normal.gif)
+
+a half capacity cinema seating ...
+
+![half](half.jpg)
 ## Built with
 
 Javascript, Stylesheet(css) and html
