@@ -1,6 +1,6 @@
 # seat-a-roo
 
-Simple seating page for work experience.
+Simple desk booking app for employees at J.P.Morgan. 
 
 ## Built with
 
