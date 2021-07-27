@@ -9,3 +9,9 @@ Simple desk booking app for employees at J.P.Morgan.
 Javascript, Stylesheet(css) and html
 
 Tailwind - https://tailwindcss.com
+
+## Published with
+
+GitHub Pages - https://guides.github.com/features/pages/
+
+
