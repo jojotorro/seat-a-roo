@@ -12,9 +12,14 @@ a normal cinema seating...
 
 ![normal](normal.gif)
 
-a half capacity cinema seating ...
+a half capacity cinema seating...
 
 ![half](half.jpg)
+
+a spaced cinema seating...
+
+![speaced](spaced.jpg)
+
 ## Built with
 
 Javascript, Stylesheet(css) and html
