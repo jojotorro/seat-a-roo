@@ -2,13 +2,13 @@
 
 Simple desk booking app for employees at J.P.Morgan. 
 
-[<< demo here >>](https://jojotorro.github.io/seat-a-roo/seats.html)
+[<< Demo here >>](https://jojotorro.github.io/seat-a-roo/seats.html)
 
 ## Idea from
 
- I like to go to the cinema and they have the same problem so why not do something simple and similar to the cinema
+ I like to go to the cinema and they have the same problem so why not do something simple and similar to the cinema. 
 
-a normal cinema seating...
+A normal cinema seating...
 
 ![normal](normal.gif)
 
