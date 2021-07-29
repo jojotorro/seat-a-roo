@@ -4,9 +4,9 @@ Simple desk booking app for employees at J.P.Morgan.
 
 [<< demo here >>](https://jojotorro.github.io/seat-a-roo/seats.html)
 
-## idea from
+## Idea from
 
- i like to go to the cinema and they have the same problem so why not do something simple and similar to the cinema
+ I like to go to the cinema and they have the same problem so why not do something simple and similar to the cinema
 
 a normal cinema seating...
 
@@ -18,13 +18,14 @@ a half capacity cinema seating...
 
 a spaced cinema seating...
 
-![speaced](spaced.jpg)
+![spaced](spaced.jpg)
 
 ## Built with
 
 Javascript, Stylesheet(css) and html
 
-Tailwind - https://tailwindcss.com
+
+[<<tailwind>>](https://tailwindcss.com)
 
 ## Published with
 
