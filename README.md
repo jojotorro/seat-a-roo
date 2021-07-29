@@ -12,11 +12,11 @@ a normal cinema seating...
 
 ![normal](normal.gif)
 
-a half capacity cinema seating...
+A half capacity cinema seating...
 
 ![half](half.jpg)
 
-a spaced cinema seating...
+A spaced cinema seating...
 
 ![spaced](spaced.jpg)
 
@@ -29,6 +29,6 @@ Javascript, Stylesheet(css) and html
 
 ## Published with
 
-GitHub Pages - https://guides.github.com/features/pages/
 
+[<<GitHub pages>>](https://guides.github.com/features/pages/)
 
